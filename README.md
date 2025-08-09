@@ -1,6 +1,9 @@
 # MR.-S
+
 AI-Powered Personal Study &amp; Voice Assistant App
+
 	Summary:
+
 	Designed for deployment across multiple platforms and used by early testers as a personalized AI-powered study assistant.
 
 	Leading the design and development of MR. S, a cross-platform AI-powered personal assistant for students and self-learners, combining chat-based Q&A, voice commands, and YouTube video integration.
